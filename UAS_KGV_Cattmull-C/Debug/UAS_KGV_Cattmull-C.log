@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Perkuliahan Semester 4\Daftar Matkul\Komputer Grafik dan Visualisasi\Tugas\UAS_KGV_Cattmull-C\UAS_KGV_Cattmull-C\Source.cpp(8,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Perkuliahan Semester 4\Daftar Matkul\Komputer Grafik dan Visualisasi\Tugas\UAS_KGV_Cattmull-C\UAS_KGV_Cattmull-C\Source.cpp(130,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Perkuliahan Semester 4\Daftar Matkul\Komputer Grafik dan Visualisasi\Tugas\UAS_KGV_Cattmull-C\UAS_KGV_Cattmull-C\Source.cpp(182,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  UAS_KGV_Cattmull-C.vcxproj -> D:\Perkuliahan Semester 4\Daftar Matkul\Komputer Grafik dan Visualisasi\Tugas\UAS_KGV_Cattmull-C\Debug\UAS_KGV_Cattmull-C.exe
